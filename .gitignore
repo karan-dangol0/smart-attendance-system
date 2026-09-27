@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+data/
+people/
+.pytest_cache/
+node_modules/
